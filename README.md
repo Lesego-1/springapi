@@ -141,7 +141,7 @@ Response:
 2. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Lesego-1/springapi.git
 cd springapi
 ```
 
